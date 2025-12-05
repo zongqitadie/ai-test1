@@ -1,0 +1,8 @@
+{
+  "name": "Neon Garden Defense",
+  "description": "A Sci-Fi plant defense game controlled by your finger using computer vision and powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
